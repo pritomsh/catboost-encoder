@@ -22,3 +22,5 @@ with many unique categories.
 ```bash  
 !pip install category_encoders
 ```
+
+Happy Encoding
